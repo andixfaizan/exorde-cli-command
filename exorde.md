@@ -12,5 +12,11 @@ docker ps -a
 docker restart
 ```
 ```
+docker stop
+```
+```
+docker rm
+```
+```
 docker logs --follow
 ```
